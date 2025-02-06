@@ -1,4 +1,4 @@
-cask "LoopCalc" do
+cask "defi_loop_calc" do
     version "1.0"
     sha256 "35ce91cedff62cd1b43fd0e64e5f79aafd5c62695b5ffd6e6263ca5dac3144eb"
   
